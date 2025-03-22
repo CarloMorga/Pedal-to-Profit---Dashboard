@@ -20,11 +20,11 @@ The goal of this project is to analyze and visualize sales, profit, and customer
 - Gender and age group contributing the most to sales
 - Order distribution by gender and age group
 
-## Process
-- Clean the dataset in MS Excel and create pivot tables to guide KPI analysis.  
-- Import the cleaned data into Tableau for visualization.  
-- Design and assemble an interactive dashboard in Tableau.  
-- Review, test, and publish the finalized dashboard for insights.
+## Process  
+- Clean the dataset in **MS Excel**, ensuring data accuracy, consistency, and proper formatting.  
+- Create **pivot tables** in Excel as a reference for KPIs and data insights.  
+- Design and develop the **interactive dashboard** in **Tableau**, incorporating visualizations and filters.  
+- Review, test, and finalize the dashboard for usability and accuracy before publishing.
 
 ## Dashboard
 ![Pedal to Profit (Screenshot)](https://github.com/user-attachments/assets/ceb09c3b-7a76-45bb-a936-03da7fb53e60)
