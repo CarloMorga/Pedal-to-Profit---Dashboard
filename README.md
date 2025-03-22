@@ -19,3 +19,9 @@ The goal of this project is to analyze and visualize sales, profit, and customer
 - Product category generating the highest revenue
 - Gender and age group contributing the most to sales
 - Order distribution by gender and age group
+
+## Process
+- Clean the dataset in MS Excel and create pivot tables to guide KPI analysis.  
+- Import the cleaned data into Tableau for visualization.  
+- Design and assemble an interactive dashboard in Tableau.  
+- Review, test, and publish the finalized dashboard for insights.  
