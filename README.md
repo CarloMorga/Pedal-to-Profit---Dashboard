@@ -24,4 +24,8 @@ The goal of this project is to analyze and visualize sales, profit, and customer
 - Clean the dataset in MS Excel and create pivot tables to guide KPI analysis.  
 - Import the cleaned data into Tableau for visualization.  
 - Design and assemble an interactive dashboard in Tableau.  
-- Review, test, and publish the finalized dashboard for insights.  
+- Review, test, and publish the finalized dashboard for insights.
+
+## Dashboard
+![Pedal to Profit (Screenshot)](https://github.com/user-attachments/assets/ceb09c3b-7a76-45bb-a936-03da7fb53e60)
+
