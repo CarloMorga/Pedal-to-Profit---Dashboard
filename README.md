@@ -1,4 +1,4 @@
-# <a href="[https://github.com/CarloMorga/Pedal-to-Profit---Dashboard/blob/main/Pedal%20to%20Profit%20-%20Data.xlsx](https://public.tableau.com/app/profile/carlo.morga/viz/PedaltoProfit-FullProject/Dashboard1)">Pedal to Profit: Bikeshop Dashboard</a> (Data Analysis with MS Excel & Tableau)
+# <a href="https://public.tableau.com/app/profile/carlo.morga/viz/PedaltoProfit-FullProject/Dashboard1">Download the Dataset</a>Pedal to Profit: Bikeshop Dashboard</a> (Data Analysis with MS Excel & Tableau)
 ## Project Objective
 The goal of this project is to analyze and visualize sales, profit, and customer data for a bike shop to help the management make data-driven decisions. The interactive dashboard provides insights into product performance, customer demographics, and revenue trends, enabling the business to optimize operations and improve profitability.
 
